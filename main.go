@@ -39,6 +39,8 @@ import (
 
 	_ "github.com/FloatTech/zbputils/job" // 定时指令触发器
 
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/yysbot" //阴阳师插件
+
 	//                               ^^^^                               //
 	//                          ^^^^^^^^^^^^^^                          //
 	//                      ^^^^^^^高优先级区^^^^^^^                      //
